@@ -1,0 +1,13 @@
+package com.controlefreelancer.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApiControleFreelancerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApiControleFreelancerApplication.class, args);
+	}
+
+}
